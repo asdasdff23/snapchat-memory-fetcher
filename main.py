@@ -1,5 +1,5 @@
 """Script entry point."""
-from snapchat_memory_fetcher import init_script
+from snapchat_memory_fetcher import __init__
 
 if __name__ == "__main__":
-    init_script()
+    __init__()
